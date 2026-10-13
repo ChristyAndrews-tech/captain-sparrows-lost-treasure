@@ -2,7 +2,7 @@
 
 A gamified Python learning web app built with Streamlit. Players take on the role of a pirate, solve 5 Python challenges to recover a torn treasure map, and an instructor dashboard tracks everyone's scores.
 
-> **Note:** I conceived and designed this project (the game idea, challenge flow, scoring, hint system and instructor dashboard). The code was written with AI assistance.
+> **Note:** I led the design of this project (game concept, challenge flow, scoring, hint system and instructor dashboard) and built it together with my friend Abyson Ninan, who helped me get started with running Python projects from the command prompt and an IDE. The code was written with AI assistance.
 
 ## 📸 Screenshots
 
